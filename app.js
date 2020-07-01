@@ -1,14 +1,14 @@
 const validator = require('validator');
 
 const emails = [
-  'ken@capcom.com',
-  'ryucapcom.com',
-  'mario@nintendo.com',
-  'luigi@nintendocom',
-  'zelda@nintendo.fr',
+  'captain@americafuckyeah.com',
+  'fantasticfour.com',
+  'ironman@stark-tower.com',
+  'avengers@mansionfr',
+  'bruce-wayne@batcave.com',
 ];
 
-emails.map(function (email) {
+emails.map((email) => {
   if (validator.isEmail(email)) {
     console.log(`${email} : OK`);
   } else {
