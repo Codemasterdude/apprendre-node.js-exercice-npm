@@ -1,4 +1,4 @@
-# 09 - npm: le gestionnaire de paquets
+# Apprendre JavaScript #09 - npm: le gestionnaire de paquets
 
 **Exercice:**
 - Installer le paquet npm "validator" avec une version specifique
